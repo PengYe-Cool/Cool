@@ -1,0 +1,17 @@
+# coding=utf-8  #编写的Python源文件以UTF-8格式保存，才能包含中文注释，才不会报错
+# -*- coding: UTF-8 -*-  #与上同理，用其中一个即可
+
+# 输出字符串
+# print('ok')
+# print('hello,word')
+
+# 依次输出多个字符，逗号输出空格
+# print('The quick brown fox','jumps over','the lary dog')
+
+# 计算结果
+# print('100+200=',100+200)
+
+# 输入字符，无提示
+name=input()
+#显示输入的字符
+print('hello,',name)
